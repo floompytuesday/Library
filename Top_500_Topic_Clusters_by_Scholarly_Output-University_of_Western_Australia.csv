@@ -1,0 +1,515 @@
+﻿Data set,Top 500 Topic Clusters by Scholarly Output
+Entity,"University of Western Australia"
+Year range,2013 to 2017
+Filtered by,"not filtered"
+Types of publications included,all publication types
+Self-citations,included
+
+Data source,Scopus
+Date last updated,8 March 2019
+Date exported,8 April 2019
+
+,,At this Institution,,,,Worldwide
+Topic Cluster,Topic Cluster Number,Scholarly Output,Publication share (%),Growth (%),Field-Weighted Citation Impact,Prominence percentile
+"Galaxies; Stars; Planets",TC.1,716,1.11,59.5,3.98,99.264
+"Zircon; Uranium-Lead Dating; Geochronology",TC.2,556,1.48,22.2,2.19,96.854
+"Piles; Soils; Geotechnical Engineering",TC.64,391,1.13,13.7,1.64,87.684
+"Obesity; Motor Activity; Child",TC.18,349,0.63,-18.2,3.75,99.197
+"Arabidopsis; Plants; Genes",TC.11,294,0.66,7.6,2.02,98.862
+"Cholesterol; Lipids; Atherosclerosis",TC.79,245,1.05,82.3,3.06,94.444
+"Soil; Biochar; Soil Organic Carbon",TC.35,231,0.71,-42.0,2.02,98.059
+"Fisheries; Sharks; Fish",TC.63,226,1.04,7.4,2.01,90.228
+"Corals; Coral Reefs; Cnidaria",TC.399,209,2.47,68.1,2.36,80.388
+"Algorithms; Computer Vision; Models",TC.0,183,0.14,-29.6,2.64,99.465
+"Chronic Obstructive Pulmonary Disease; Asthma; Patients",TC.39,182,0.65,0.0,2.1,94.177
+"Schizophrenia; Psychotic Disorders; Antipsychotic Agents",TC.80,175,0.75,91.5,2.22,92.236
+"Attention; Brain; Learning",TC.10,169,0.38,-18.6,1.25,98.193
+"Cables; Circular Cylinders; Fluid Structure Interaction",TC.466,168,1.5,28.8,1.75,53.681
+"Alzheimer Disease; Dementia; Amyloid",TC.32,164,0.41,5.2,1.65,98.795
+"Eye; Optical Coherence Tomography; Macular Degeneration",TC.33,159,0.43,0.0,2.62,94.578
+"Pervasive Child Development Disorders; Autistic Disorder; Child",TC.139,145,0.6,-3.5,1.68,93.976
+"North American Indians; Residence Characteristics; Health",TC.833,144,2.37,33.8,0.98,54.953
+"Stroke; Gait; Rehabilitation",TC.48,138,0.35,-24.7,1.98,96.787
+"Pneumonia; Streptococcus Pneumoniae; Anti-Bacterial Agents",TC.159,136,0.88,45.3,2.3,82.798
+"Forests; Landscapes; Plants",TC.151,135,0.61,-25.9,2.81,94.712
+"Hearing; Hearing Loss; Cochlear Implants",TC.66,132,0.55,-4.9,2.07,87.483
+"Human Influenza; Orthomyxoviridae; Influenza Vaccines",TC.147,126,0.53,50.4,2.05,91.432
+"Fossils; Pleistocene; Paleolithic",TC.127,126,0.87,-3.4,2.14,80.522
+"Rocks; Rock Mechanics; Tunnels",TC.155,124,0.45,-6.6,1.17,77.51
+"Fires; Marsupial; Marsupialia",TC.953,123,4.0,38.6,1.03,43.373
+"Exercise; Athletes; Muscles",TC.100,123,0.45,-59.9,1.27,92.369
+"Pregnancy; Pre-Eclampsia; Women",TC.85,117,0.49,-15.9,2.21,90.696
+"Insulin; Type 2 Diabetes Mellitus; Glucose",TC.46,117,0.32,3.6,2.69,97.724
+"T-Lymphocytes; Neoplasms; Immunotherapy",TC.12,115,0.23,-6.3,1.86,99.665
+"Allergens; Hypersensitivity; Atopic Dermatitis",TC.116,112,0.57,15.0,1.71,90.629
+"Electric Power Transmission Networks; Wind Power; Electric Power Distribution",TC.28,111,0.18,-38.8,2.23,99.13
+"Work; Personality; Psychology",TC.29,110,0.28,5.9,2.72,96.452
+"Emotions; Anxiety; Depression",TC.167,110,0.45,1.8,1.98,95.515
+"Neoplasms; Patients; Palliative Care",TC.77,109,0.33,97.6,1.84,95.047
+"Bone And Bones; Osteoporosis; Bone Density",TC.45,109,0.39,31.1,1.36,92.972
+"Oceans; Lakes; Dissolved Organic Matter",TC.52,106,0.42,-63.9,2.65,95.984
+"Mangrove; Wetlands; Seagrass",TC.585,104,1.49,49.1,2.4,72.691
+"Tides; Ocean; Ocean Currents",TC.252,100,0.8,-42.8,1.31,79.652
+"Oral Health; Periodontitis; Dental Caries",TC.125,100,0.48,-6.6,0.93,84.605
+"Premature Infant; Infant (Newborn); Neonatal Intensive Care Units",TC.299,99,0.79,29.9,2.04,77.309
+"Students; Medical Students; Education",TC.43,97,0.24,-32.9,1.65,91.901
+"Weeds; Herbicides; Weed Control",TC.533,95,1.65,35.4,1.9,57.497
+"Eye; Glaucoma; Cataract",TC.19,94,0.27,-16.0,1.62,90.83
+"Vitamin D; Vitamin D Deficiency; Parathyroid Hormone",TC.187,93,0.47,24.1,1.69,89.625
+"Finite Group; Subgroup; Group",TC.855,93,2.04,-19.5,1.13,5.087
+"Breast Feeding; Mothers; Infant",TC.552,93,0.98,-70.2,1.54,64.458
+"Sleep; Obstructive Sleep Apnea; Sleep Apnea Syndromes",TC.78,92,0.31,-12.6,1.72,95.783
+"Mesothelioma; Asbestos; Neoplasms",TC.682,91,1.77,-35.5,1.72,54.351
+"Child; Adolescent; Schools",TC.99,91,0.32,77.5,1.33,93.307
+"Eating Disorders; Anorexia Nervosa; Body Image",TC.364,89,0.7,-22.8,1.4,86.145
+"Beans; Fabaceae; Genotype",TC.1109,89,3.01,74.8,2.27,27.376
+"Anti-Bacterial Agents; Infection; Methicillin-Resistant Staphylococcus Aureus",TC.16,86,0.19,-27.1,2.06,98.26
+"Gravitation; Black Holes (Astronomy); Models",TC.15,83,0.22,5.2,1.14,95.716
+"Tooth; Bone And Bones; Dentin",TC.14,81,0.18,-17.7,1.3,94.378
+"Optical Tomography; Photoacoustic Effect; Tomography",TC.398,78,0.54,30.7,1.7,80.455
+"Transplants; Tissue Donors; Kidney Transplantation",TC.98,76,0.37,-61.2,0.8,83.333
+"Burns; Wounds And Injuries; Cicatrix",TC.545,76,1.07,0.2,1.2,48.327
+"Muscles; Duchenne Muscular Dystrophy; Skeletal Muscle",TC.385,75,0.77,-55.1,1.74,80.589
+"Breast Neoplasms; Patients; Mammography",TC.89,73,0.29,124.5,1.82,90.897
+"Fires; Forests; Wildfires",TC.278,72,0.66,-13.5,1.35,77.778
+"Clostridium Difficile; Clostridium Infections; Anthrax",TC.610,72,1.0,43.7,2.27,66.934
+"Spermatozoa; Semen; Oocytes",TC.94,72,0.42,-65.3,1.71,84.337
+"Plants; Introduced Species; Invasive Species",TC.958,71,1.43,-51.2,3.35,63.655
+"Acute Myeloid Leukemia; Patients; Precursor Cell Lymphoblastic Leukemia-Lymphoma",TC.134,70,0.32,-28.7,1.03,92.436
+"Genome-Wide Association Study; Single Nucleotide Polymorphism; Genes",TC.592,69,0.69,171.4,4.68,84.203
+"Macroalgae; Rhodophycota; Seaweed",TC.454,67,0.94,-16.8,3.15,74.23
+"Ligands; Ruthenium; Catalysts",TC.75,67,0.39,30.5,1.23,97.791
+"Corporate Social Responsibility; Corporate Governance; Firms",TC.56,66,0.21,-72.6,1.03,92.905
+"Industry; Research; Marketing",TC.36,66,0.17,-8.6,1.89,96.586
+"Knee; Osteoarthritis; Cartilage",TC.120,66,0.26,-36.4,1.11,91.566
+"Stroke; Patients; Cerebral Hemorrhage",TC.138,65,0.29,-16.2,1.95,89.157
+"Rice; Corn; Wheat",TC.339,65,0.66,106.5,1.31,71.352
+"Melanoma; Skin Neoplasms; Neoplasms",TC.233,64,0.38,8.0,1.49,80.924
+"Climate Models; Model; Rainfall",TC.5,63,0.1,95.1,3.08,98.929
+"Basin; Craton; Zircon",TC.1484,63,6.12,121.7,1.74,7.497
+"Models; Social Networking (Online); Algorithms",TC.358,63,0.26,46.2,1.64,89.023
+"Hypertension; Blood Pressure; Patients",TC.157,62,0.38,527.8,6.36,82.932
+"Mines; Mining; Models",TC.1203,60,1.79,-42.1,0.66,29.786
+"Mycorrhizal Fungi; Basidiomycota; Fungus",TC.479,60,0.87,-10.4,1.87,68.005
+"Viruses; Mosaic Viruses; Phytoplasma",TC.293,59,0.59,284.0,1.34,74.364
+"Tree Ring; Trees; Growth Rings",TC.370,59,0.63,-53.1,2.64,85.676
+"Spine; Patients; Low Back Pain",TC.23,59,0.14,-40.2,1.14,93.039
+"Photosystem II Protein Complex; Photosynthesis; Chlorophyll",TC.329,59,0.68,-16.1,2.31,83.668
+"Language; Reading; Semantics",TC.88,58,0.24,-17.2,2.09,89.491
+"Waves; Water Waves; Wave Energy Conversion",TC.284,58,0.43,492.3,1.54,75.77
+"Heavy Metals; Soils; Cadmium",TC.214,58,0.35,-10.0,1.3,90.161
+"Magnetic Anisotropy; Magnetization; Magnetism",TC.105,58,0.27,-48.0,0.99,93.44
+"Brain Injuries; Wounds And Injuries; Patients",TC.258,58,0.34,-14.3,1.69,87.015
+"Iron; Anemia; Erythropoietin",TC.238,56,0.41,-27.1,1.32,83.133
+"Cambrian; Cretaceous; Ordovician",TC.44,56,0.49,-14.2,1.73,75.502
+"Drosophila; Drosophila Melanogaster; Genetic Selection",TC.459,56,0.66,6.1,1.37,81.258
+"Alcohols; Ethanol; Alcohol Drinking",TC.433,55,0.8,62.9,1.89,67.269
+"Heart Arrest; Cardiopulmonary Resuscitation; Out-Of-Hospital Cardiac Arrest",TC.496,54,0.54,64.4,2.7,70.884
+"Anticoagulants; Patients; Venous Thromboembolism",TC.26,54,0.17,72.6,1.91,92.303
+"Mesenchymal Stromal Cells; Stem Cells; Induced Pluripotent Stem Cells",TC.163,54,0.18,-38.2,1.54,97.657
+"Wheat; Triticum; Triticum Aestivum",TC.617,53,1.07,75.9,2.99,58.501
+"Quantum Chemistry; Density Functional Theory; Molecular Orbitals",TC.145,53,0.32,69.5,1.93,91.365
+"Atrial Fibrillation; Patients; Catheter Ablation",TC.25,52,0.13,60.6,2.64,94.913
+"Alcohols; Cannabis; Drinking",TC.174,52,0.3,-49.1,1.02,84.94
+"Dengue; Viruses; Dengue Virus",TC.170,52,0.22,64.2,2.29,98.327
+"Gasification; Pyrolysis; Coal",TC.87,52,0.17,47.8,1.81,98.527
+"Concretes; Compressive Strength; Cements",TC.68,51,0.13,124.3,1.91,97.122
+"Control; Controllers; Linear Matrix Inequalities",TC.9,51,0.09,-18.1,1.22,96.921
+"Birds; Nests; Seabirds",TC.41,51,0.25,-14.9,1.54,89.759
+"Electricity; Energy; Economics",TC.81,51,0.14,-2.2,1.68,98.594
+"Models; Risks; Finance",TC.54,51,0.14,6.7,0.91,90.027
+"Cognitive Radio; MIMO Systems; Orthogonal Frequency Division Multiplexing",TC.3,50,0.06,-21.2,1.3,97.523
+"Pneumothorax; Lung; Pleural Effusion",TC.693,50,0.79,-2.4,1.86,31.191
+"DNA Methylation; Epigenomics; Neoplasms",TC.478,50,0.35,46.9,2.69,91.968
+"HIV; HIV Infections; HIV-1",TC.17,50,0.12,197.2,1.95,96.386
+"Retina; Neurons; Retinal Ganglion Cells",TC.856,50,2.08,32.0,0.98,35.877
+"Vasodilation; Endothelium; Dilatation",TC.574,50,1.28,-12.7,1.55,40.361
+"MicroRNAs; Long Untranslated RNA; Neoplasms",TC.219,50,0.12,6.3,3.38,99.398
+"Melanesia; Anthropology; Australia",TC.645,50,0.78,-24.6,0.92,26.439
+"Testosterone; Face; Behavior",TC.928,49,0.83,35.0,1.57,59.17
+"Percutaneous Coronary Intervention; Patients; Myocardial Infarction",TC.53,49,0.16,62.7,1.84,93.106
+"Monetary Policy; Economic Growth; Exports",TC.21,49,0.12,-3.8,0.7,90.094
+"Prostatic Neoplasms; Prostate; Prostatectomy",TC.141,48,0.2,31.6,1.67,94.779
+"Alfalfa; Forage; Lolium Perenne",TC.997,48,2.1,36.3,1.24,23.561
+"Quantum Optics; Quantum Computers; Quantum Theory",TC.57,48,0.13,0.7,1.27,96.185
+"Depression; Bipolar Disorder; Major Depressive Disorder",TC.175,48,0.31,619.5,1.85,88.688
+"Sports; Students; Athletes",TC.443,48,0.41,-6.2,2.2,73.293
+"Dairy Cows; Cows; Mastitis",TC.136,48,0.3,-9.3,1.29,80.857
+"Endometriosis; Ovarian Neoplasms; Endometrial Neoplasms",TC.60,48,0.17,-22.7,1.74,90.361
+"Phytophthora; Trichoderma; Phytophthora Infestans",TC.425,47,0.67,-61.3,1.54,62.918
+"Malaria; Plasmodium Falciparum; Parasites",TC.180,47,0.28,26.0,1.5,89.424
+"Colorectal Neoplasms; Rectal Neoplasms; Patients",TC.93,47,0.16,-8.1,1.65,92.035
+"Araneae; Spider; Arachnida",TC.685,47,1.14,-23.9,1.12,27.979
+"Mitochondria; Mitochondrial DNA; Mutation",TC.320,47,0.41,-10.1,1.37,88.554
+"Aquifers; Groundwater Resources; Groundwater Flow",TC.282,47,0.4,-33.0,1.39,80.187
+"Brassica Napus; Brassicaceae; Brassica Rapa",TC.1268,47,2.01,-11.0,2.4,30.656
+"Rivers; Fish; Streams",TC.149,46,0.31,4.3,2.13,82.53
+"Earthquakes; Seismology; Seismic Response",TC.226,46,0.23,25.8,2.13,79.786
+"Primates; Pan Troglodytes; Behavior",TC.350,46,0.51,-43.9,1.37,75.435
+"Parkinson Disease; Deep Brain Stimulation; Patients",TC.102,46,0.18,-53.2,1.0,95.85
+"Metagenome; Probiotics; Bacteria",TC.215,46,0.2,123.4,3.31,98.661
+"Media; News; Journalism",TC.279,45,0.23,-24.3,4.25,81.593
+"Sepsis; Acute Kidney Injury; Patients",TC.251,45,0.24,72.0,5.72,88.153
+"Helicobacter Pylori; Gastroesophageal Reflux; Helicobacter Infections",TC.90,45,0.24,-24.2,1.03,85.944
+"Microsatellite Repeats; Genetic Variation; Loci",TC.716,45,0.87,-36.9,1.4,49.732
+"Industry; Innovation; Entrepreneurship",TC.24,45,0.1,208.5,1.75,97.256
+"Aerosols; Air Quality; Atmospheric Aerosols",TC.42,45,0.15,9.6,1.41,97.59
+"Delirium; Anesthesia; Propofol",TC.190,45,0.29,-11.5,4.16,80.79
+"Formicidae; Hymenoptera; Ant",TC.260,45,0.4,-33.4,1.25,82.329
+"Remote Sensing; Image Classification; Satellite Imagery",TC.153,45,0.16,136.0,1.41,95.114
+"Abdominal Aortic Aneurysm; Aneurysm; Dissection",TC.287,45,0.33,18.1,2.1,60.843
+"Orchidaceae; New Species; Dendrobium",TC.1258,44,1.55,105.1,2.14,24.967
+"Vaccination; Vaccines; Immunization",TC.367,44,0.43,24.0,1.64,70.482
+"Cells; Drosophila; Neoplasms",TC.110,44,0.19,72.0,1.09,94.645
+"Indonesia; Malaysia; Thailand",TC.676,43,0.59,-3.5,1.03,24.9
+"Vitiligo; Skin; Therapeutics",TC.523,43,0.53,60.0,2.2,62.115
+"Non-Small-Cell Lung Carcinoma; Lung Neoplasms; Patients",TC.124,42,0.15,154.9,3.35,95.582
+"Arthroplasty; Hip; Knee",TC.123,42,0.16,-11.5,0.94,87.349
+"Lizards; Turtles; Frogs",TC.126,42,0.28,-38.9,0.93,76.506
+"Hepacivirus; Hepatitis B Virus; Hepatitis C",TC.58,42,0.15,117.6,1.26,95.448
+"Breast Neoplasms; Genetic Testing; Risk",TC.587,41,0.41,-27.8,2.03,80.991
+"Cystic Fibrosis; Cystic Fibrosis Transmembrane Conductance Regulator; Pseudomonas Aeruginosa",TC.641,41,0.62,184.3,2.2,67.537
+"Memory; Episodic Memory; Learning",TC.448,41,0.43,11.3,1.18,73.226
+"Criminals; Violence; Mental Health",TC.388,41,0.41,27.9,0.87,63.32
+"Blood; Blood Transfusion; Patients",TC.272,40,0.32,-38.3,1.68,74.297
+"Tea; Polyphenols; Anthocyanins",TC.294,39,0.22,48.7,1.42,94.11
+"Ecosystem Services; Willingness To Pay; Valuation",TC.955,38,0.59,-32.8,4.49,76.64
+"Semiconductor Quantum Dots; Semiconductor Quantum Wells; Gallium Arsenide",TC.59,38,0.2,-79.4,0.61,86.412
+"Pharmacists; Pharmaceutical Preparations; Pharmacy",TC.199,38,0.2,-33.6,2.32,79.183
+"Thyroid Neoplasms; Thyroid Gland; Thyroidectomy",TC.76,38,0.16,39.1,2.16,89.357
+"Mussels; Bivalvia; Oysters",TC.244,38,0.37,-19.3,1.23,75.636
+"Artificial Respiration; Adult Respiratory Distress Syndrome; Noninvasive Ventilation",TC.382,38,0.38,-21.8,1.58,71.218
+"Reinforced Concrete; Concretes; Steel",TC.137,38,0.13,174.8,1.68,89.224
+"Housing; Neighborhood; Gentrification",TC.281,37,0.25,56.4,1.24,74.565
+"Seismic Waves; Seismology; Seismic Data",TC.371,37,0.23,-38.2,0.84,51.138
+"Hydrates (Gas); Hydration; Methane",TC.1103,37,0.75,23.5,1.72,60.977
+"Migration; Migrant; Immigrant",TC.419,37,0.3,56.0,2.83,59.572
+"Graphene; Carbon Nanotubes; Nanotubes",TC.22,36,0.05,-25.3,1.18,99.866
+"Post-Traumatic Stress Disorders; Wounds And Injuries; Disasters",TC.283,36,0.22,-5.5,2.1,83.936
+"Inflammatory Bowel Diseases; Crohn Disease; Ulcerative Colitis",TC.276,36,0.24,-39.7,4.43,85.877
+"Microwaves; Permittivity; Scattering Parameters",TC.1123,36,0.97,-36.3,0.61,23.36
+"Health; Delivery Of Health Care; Women",TC.424,35,0.25,-16.7,18.35,76.908
+"Smoking; Tobacco Products; Smoking Cessation",TC.205,35,0.19,43.2,1.43,89.826
+"Coal Deposits; Methane; Coal Mines",TC.1100,35,0.65,-25.1,2.61,43.976
+"Opioid Analgesics; Pain; Prescriptions",TC.510,35,0.36,-51.2,2.32,78.916
+"Chronic Renal Insufficiency; Renal Dialysis; Dialysis",TC.221,35,0.23,58.7,0.76,81.995
+"Cytomegalovirus; Cytomegalovirus Infections; Herpes Zoster",TC.225,34,0.29,31.6,0.74,72.557
+"Farmers; Smallholder; Farms",TC.621,34,0.54,-30.3,2.0,55.422
+"Acoustics; Architectural Acoustics; Acoustic Waves",TC.647,34,0.45,-33.6,0.92,41.968
+"Curcumin; Curcuma; Ginger",TC.1127,34,0.59,-,6.6,71.62
+"Bacillus Thuringiensis; Aphidoidea; Aphids",TC.129,34,0.24,-35.3,1.41,82.396
+"Mulching; Irrigation; Corn",TC.636,34,0.55,-29.6,2.34,51.071
+"Candida; Infection; Candida Albicans",TC.115,33,0.17,-58.6,1.36,85.207
+"Uterine Cervical Neoplasms; Papillomavirus Infections; Women",TC.189,33,0.19,650.4,1.22,83.802
+"Calcium; Calcium Signaling; Ion Channels",TC.232,33,0.31,230.7,1.51,78.112
+"Women; Erectile Dysfunction; Testosterone",TC.194,33,0.25,39.8,1.54,77.443
+"Particulate Matter; Air Pollution; Air Pollutants",TC.431,33,0.27,50.0,1.16,89.09
+"Phase Equilibria; Binary Mixtures; Equations Of State",TC.135,33,0.24,285.5,0.96,85.141
+"Electric Potential; Electric Inverters; DC-DC Converters",TC.13,33,0.04,-22.6,1.35,98.461
+"Brain-Derived Neurotrophic Factor; Neurogenesis; Neurons",TC.161,32,0.21,30.2,0.77,89.692
+"Whales; Dolphins; Seals",TC.516,32,0.43,18.4,3.74,85.274
+"Magnetic Resonance Imaging; Brain; Diffusion",TC.181,32,0.15,-51.8,1.35,93.373
+"Mental Health; Psychiatry; Depression",TC.661,32,0.4,924.2,1.15,61.847
+"Memristors; MOSFET Devices; Data Storage Equipment",TC.131,32,0.13,-22.0,1.55,90.295
+"Polycystic Ovary Syndrome; Women; Oocytes",TC.253,32,0.25,-40.2,2.03,77.711
+"Estimator; Models; Variable Selection",TC.74,32,0.11,-54.2,0.92,83.601
+"Algorithms; Computer Graphics; Surfaces",TC.228,32,0.21,15.9,1.12,61.178
+"Omega-3 Fatty Acids; Docosahexaenoic Acids; Unsaturated Fatty Acids",TC.600,32,0.46,-1.7,1.86,74.498
+"Syphilis; Chlamydia Trachomatis; Infection",TC.348,32,0.35,-12.0,2.72,66.399
+"Rumen; Dairy Cows; Rumen Fermentation",TC.168,31,0.24,28.7,1.68,76.305
+"Synchronization; Chaotic Systems; Chaos Theory",TC.210,31,0.17,43.7,1.34,85.408
+"Lymphoma; Diffuse Large B-Cell Lymphoma; Patients",TC.62,31,0.12,95.5,1.06,90.428
+"Student; Education; Learning",TC.913,31,0.5,-4.2,1.82,37.483
+"Microbial Fuel Cells; Anaerobic Digestion; Bioreactors",TC.65,31,0.09,77.8,1.42,99.063
+"Intubation; Airway Management; Intratracheal Intubation",TC.470,31,0.35,99.2,1.73,50.201
+"Microfinance; Farmers; Cooperative",TC.532,30,0.34,-65.4,0.74,57.764
+"Teacher; School; Education",TC.150,30,0.14,-54.5,1.12,74.967
+"Wind Turbines; Wind Power; Asynchronous Generators",TC.423,30,0.16,-53.1,2.85,85.609
+"Ligands; Crystal Structure; Organometallics",TC.71,30,0.09,85.9,0.95,99.331
+"Glioma; Neoplasms; Glioblastoma",TC.222,30,0.17,106.4,2.43,86.546
+"Asteroids; Comets; Mars",TC.133,30,0.2,-36.1,0.65,86.747
+"Catalysis; Synthesis (Chemical); Catalysts",TC.4,30,0.06,-12.8,1.07,99.799
+"Rangelands; Grasslands; Savannas",TC.767,30,0.58,-43.4,1.4,61.245
+"Shoulder; Rotator Cuff; Tendons",TC.241,30,0.16,-24.4,2.08,77.242
+"Cadmium Telluride; Cadmium Alloys; Infrared Detectors",TC.951,30,1.03,-45.8,0.63,19.946
+"Cholesteatoma; Ear; Otitis Media",TC.681,30,0.59,67.1,1.05,22.289
+"Sarcopenia; Patients; Aged",TC.782,30,0.31,-50.6,2.68,82.129
+"Carnivores; Ungulates; Deer",TC.224,30,0.23,30.6,1.13,81.124
+"Surgery; Needles; Robotics",TC.752,30,0.39,-41.8,1.84,56.091
+"Methods; Test; Psychometrics",TC.962,30,0.55,-62.2,1.11,39.424
+"Folic Acid; Homocysteine; Vitamin B 12",TC.378,30,0.35,-58.1,2.28,72.825
+"Genome; Neoplasms; Genes",TC.436,29,0.2,59.8,2.91,94.043
+"Emergencies; Patients; Hospitals",TC.675,29,0.35,-30.6,1.45,57.965
+"Students; Science; Learning",TC.230,29,0.17,11.4,1.45,70.75
+"Insulators; Quantum Dots; Spin",TC.186,29,0.16,49.5,1.29,93.775
+"Flora; Grasslands; Italy",TC.706,29,0.73,66.2,1.72,30.924
+"Decoding; Construction; Polynomials",TC.766,29,0.48,17.9,0.36,22.557
+"Health; Costs And Cost Analysis; Neoplasms",TC.584,28,0.26,106.9,4.42,72.892
+"Ankle; Foot; Diabetic Foot",TC.319,28,0.21,72.2,0.87,66.801
+"Data Envelopment Analysis; Banks; Efficiency",TC.384,28,0.21,94.1,1.22,79.25
+"Pregnancy; Depression; Postpartum Depression",TC.1028,28,0.59,68.9,1.0,57.631
+"Shape Memory Effect; Martensitic Transformations; Martensite",TC.688,28,0.41,-66.0,0.84,66.332
+"Verification; Model Checking; Semantics",TC.96,28,0.12,119.3,0.85,70.549
+"Breast Neoplasms; Early Detection Of Cancer; Women",TC.595,28,0.31,43.1,1.3,75.033
+"Kant; Theory; Epistemic",TC.152,28,0.12,128.1,1.44,50.87
+"Morals; Research; Behavior",TC.267,28,0.15,2.8,1.83,88.019
+"Research; Meta-Analysis As Topic; Guidelines As Topic",TC.356,28,0.19,24.9,1.6,78.581
+"Great Britain; Eighteenth Century; Nineteenth Century",TC.480,28,0.36,187.2,0.62,16.667
+"Breads; Starch; Glutens",TC.169,28,0.16,-54.9,1.01,91.299
+"Systemic Lupus Erythematosus; Systemic Scleroderma; Patients",TC.162,27,0.17,-100.0,1.62,84.003
+"Basin; Reservoir; Shale",TC.213,27,0.17,-87.0,0.97,77.577
+"Shoots; Explants; Callus",TC.290,27,0.36,340.4,1.09,49.866
+"Heart Failure; Patients; Brain Natriuretic Peptide",TC.300,27,0.22,32.3,4.75,84.739
+"Multiple Sclerosis; Patients; Neuromyelitis Optica",TC.304,27,0.18,57.5,2.83,87.952
+"Reservoirs (Water); Oil Well Flooding; Hydraulic Fracturing",TC.164,27,0.1,116.9,1.9,84.07
+"Tuberculosis; Mycobacterium Tuberculosis; Multidrug-Resistant Tuberculosis",TC.72,27,0.1,-20.4,0.99,91.232
+"Radiotherapy; Radiation; Intensity-Modulated Radiotherapy",TC.322,27,0.2,-44.2,1.32,71.017
+"Mental Health; Homeless Persons; Mental Health Services",TC.499,27,0.36,-33.8,0.44,53.28
+"Fatty Liver; Liver Diseases; Alcoholic Fatty Liver",TC.1042,26,0.38,-23.4,4.81,77.175
+"Emigrants And Immigrants; Hispanic Americans; Acculturation",TC.646,26,0.31,65.0,1.24,61.513
+"Water; Water Resources; Water Management",TC.527,26,0.25,-54.6,1.95,79.585
+"Exercise; Hot Temperature; Athletes",TC.756,26,0.46,15.1,2.04,56.894
+"Disasters; Floods; Risks",TC.438,26,0.17,214.7,1.37,83.467
+"MEMS; Gyroscopes; Resonators",TC.246,25,0.15,-73.5,0.52,78.983
+"Atomic Force Microscopy; Self Assembled Monolayers; Molecules",TC.345,25,0.24,757.8,1.35,84.137
+"Insulin; Insulin-Secreting Cells; Islets Of Langerhans",TC.331,25,0.26,-6.8,0.97,82.062
+"Atomic Clocks; Rubidium; Frequency Standards",TC.590,25,0.32,-20.5,1.16,53.347
+"Plants; Rhizosphere; Rhizobium",TC.488,25,0.29,278.1,1.38,83.4
+"Offense; Police; Offender",TC.207,25,0.14,35.8,1.36,75.234
+"Structural Health Monitoring; Damage Detection; Modal Analysis",TC.514,24,0.21,-86.0,1.42,69.746
+"Rheumatoid Arthritis; Psoriasis; Patients",TC.130,24,0.11,83.5,1.55,91.165
+"Attention Deficit Disorder With Hyperactivity; Child; Methylphenidate",TC.721,24,0.35,493.4,0.93,67.805
+"Analgesia; Nerve Block; Bupivacaine",TC.305,24,0.21,6.4,2.36,64.324
+"China; Chinese; Hong Kong",TC.471,24,0.23,-39.4,0.69,48.862
+"China; Asia; Chinese",TC.495,24,0.23,74.4,1.24,42.503
+"Pain; Neuralgia; Chronic Pain",TC.140,23,0.12,113.7,1.13,90.562
+"Kaolinite; Clay Minerals; Nanotubes",TC.815,23,0.44,-100.0,0.94,69.21
+"Electrospinning; Nanofibers; Spinning (Fibers)",TC.834,23,0.25,-84.9,1.32,85.475
+"Traffic Control; Transportation; Models",TC.107,23,0.06,592.3,0.84,93.708
+"Accident Prevention; Accidents; Safety Engineering",TC.638,23,0.29,107.9,1.76,54.284
+"Telemedicine; Technology; Patients",TC.851,23,0.38,295.3,1.57,50.535
+"Liver Transplantation; Liver; Fibrosis",TC.144,22,0.12,178.9,1.38,81.526
+"Patents; Copyright; Intellectual Property",TC.586,22,0.32,-48.9,0.3,28.715
+"Intelligence; Child; Psychology",TC.760,22,0.45,4.9,2.27,43.909
+"Forest; Deforestation; Conservation",TC.663,22,0.25,4.2,1.41,75.1
+"Students; Learning; Teaching; Course",TC.684,22,0.36,-85.9,2.31,36.881
+"Hydrodynamics; Boundary Element Method; Functions",TC.1058,22,0.41,25.2,1.92,54.819
+"Kisspeptins; Gonadotropin-Releasing Hormone; Estradiol",TC.379,22,0.42,22.5,1.48,58.701
+"Women; Cesarean Section; Parturition",TC.397,22,0.19,-100.0,2.3,67.202
+"Oxytocin; Hydrocortisone; Anxiety",TC.432,22,0.26,73.0,1.26,82.664
+"Leishmania; Visceral Leishmaniasis; Trypanosoma Cruzi",TC.261,22,0.2,233.2,1.16,77.376
+"Catalysts; Zeolites; Hydrogenation",TC.7,22,0.04,-33.8,2.14,99.732
+"Aspirin; Inflammation; Cyclooxygenase 2",TC.618,22,0.41,160.4,1.72,65.797
+"Cells; Neoplasms; Hydrogels",TC.166,21,0.09,221.1,2.26,97.055
+"Catheters; Renal Dialysis; Central Venous Catheters",TC.651,21,0.27,-,1.56,43.307
+"Fluorescence; Probes; Supramolecular Chemistry",TC.248,21,0.1,-16.3,0.71,97.992
+"Hernia; Herniorrhaphy; Laparoscopy",TC.395,21,0.2,381.8,1.85,56.158
+"Obesity; Leptin; Adiponectin",TC.257,21,0.12,11.7,1.84,91.633
+"Arsenic; Arsenate; Iron Oxides",TC.569,21,0.23,-59.0,1.66,84.471
+"Tsunamis; Earthquakes; Geophysics",TC.748,21,0.35,380.6,1.21,59.438
+"Speech; Speech Recognition; Models",TC.156,21,0.09,0.4,1.65,82.999
+"Rivers; Scour; Sediment Transport",TC.468,21,0.23,35.9,1.77,67.671
+"New Species; Brazil; Rubiaceae",TC.572,21,0.42,143.0,2.32,34.806
+"Glaciers; Holocene; Glacial Geology",TC.103,20,0.12,-76.3,1.85,91.098
+"Chromatin; Histones; Epigenomics",TC.201,20,0.1,-15.5,2.39,96.653
+"Raman Spectroscopy; Fluid Inclusion; Sapphire",TC.1320,20,1.22,-55.5,0.86,10.843
+"Silicon Solar Cells; Solar Cells; Silicon",TC.97,20,0.1,88.9,0.48,88.889
+"Cannabinoids; Cannabis; Endocannabinoids",TC.318,20,0.16,-85.7,1.31,88.42
+"Dogs; Pets; Cats",TC.964,20,0.4,-37.8,1.84,40.562
+"Buckling; Vibration Analysis; Functionally Graded Materials",TC.240,20,0.14,96.0,1.33,81.861
+"Research; Science; Periodicals As Topic",TC.932,20,0.28,-14.0,2.49,73.427
+"Neoplastic Stem Cells; Neoplasms; Breast Neoplasms",TC.860,20,0.23,-67.5,2.26,83.735
+"Dune; Wind Erosion; Sand",TC.1031,20,0.7,-100.0,1.07,32.932
+"Health; Research; Income",TC.1068,20,0.31,240.2,75.52,60.71
+"Gipsy; Muslim; Gender",TC.750,20,0.26,-,1.3,29.652
+"Education; Wages; Inequality",TC.657,20,0.24,-35.1,0.98,59.973
+"Masonry Materials; Masonry Construction; Brick",TC.1003,20,0.28,-13.6,1.47,61.111
+"Vascular Endothelial Growth Factor A; Neoplasms; Endothelial Cells",TC.429,19,0.2,37.9,1.9,79.05
+"Algae; Microalgae; Biodiesel",TC.517,19,0.16,16.9,1.53,92.637
+"Idiopathic Pulmonary Fibrosis; Interstitial Lung Diseases; Langerhans-Cell Histiocytosis",TC.673,19,0.26,224.6,1.4,59.639
+"Kalman Filters; Target Tracking; Algorithms",TC.333,19,0.13,-8.2,1.08,59.906
+"Terahertz Waves; Terahertz Spectroscopy; Millimeter Waves",TC.701,19,0.23,-66.2,1.72,54.083
+"Crabs; Decapoda; Lobsters",TC.328,19,0.31,-57.6,0.65,45.582
+"Transgendered Persons; Female Homosexuality; Bisexuality",TC.580,19,0.18,-35.3,1.43,74.9
+"Serotonin; Depression; Serotonin Plasma Membrane Transport Proteins",TC.357,19,0.3,-,1.14,69.545
+"Escherichia Coli; Bacteria; Quorum Sensing",TC.198,19,0.12,483.5,0.97,92.838
+"Learning; Students; Education",TC.557,19,0.21,118.7,1.53,50.937
+"Rehabilitation; Depression; Patients",TC.601,19,0.28,-7.6,2.25,59.304
+"Infertility; Twins; Assisted Reproductive Techniques",TC.625,19,0.26,-83.5,2.28,52.142
+"Trade Unions; Workers; Labor",TC.524,19,0.29,127.5,0.83,30.723
+"Plasmons; Metamaterials; Surface Plasmon Resonance",TC.47,19,0.03,92.1,1.7,99.531
+"Microstructure; Steel; Austenite",TC.20,19,0.05,-41.7,1.11,97.323
+"Ionization; Cross Sections; Ions",TC.237,18,0.25,-16.8,0.44,48.26
+"Shakespeare; Early Modern; Theatre",TC.755,18,0.34,-5.6,0.4,1.941
+"Benthic Foraminifera; Planktonic Foraminifera; Paleoceanography",TC.773,18,0.45,30.8,1.25,59.371
+"Squamous Cell Carcinoma; Head And Neck Neoplasms; Carcinoma",TC.264,18,0.13,-,1.32,76.841
+"Publications; Periodicals As Topic; Research",TC.275,18,0.09,16.4,0.5,84.27
+"Hyperbaric Oxygenation; Diving; Air Embolism",TC.1223,18,0.69,470.1,0.5,14.391
+"Aortic Valve; Mitral Valve; Aortic Valve Stenosis",TC.243,18,0.09,-39.7,1.21,86.814
+"Seeds; Germination; Seedlings",TC.926,18,0.52,-20.3,2.07,17.805
+"Futures; Foresight; Scenarios",TC.1059,18,0.38,61.5,0.73,38.42
+"DNA; Microsatellite Repeats; Population",TC.604,18,0.25,-10.5,1.36,68.608
+"Dinosaur; Cretaceous; Fossils",TC.375,18,0.3,151.6,0.76,58.099
+"Health; Socioeconomic Factors; Mortality",TC.537,18,0.18,-70.8,1.46,75.301
+"Melatonin; Circadian Clocks; Circadian Rhythm",TC.396,18,0.22,-47.7,1.18,79.451
+"Law; Court; Human Rights",TC.757,18,0.3,111.3,0.47,22.959
+"Patients; Percutaneous Nephrostomy; Kidney Calculi",TC.249,18,0.14,-47.0,0.57,61.379
+"Prenatal Diagnosis; Down Syndrome; First Pregnancy Trimester",TC.911,18,0.39,3.7,1.44,37.617
+"Agents; Game Theory; Models",TC.173,18,0.08,86.1,0.32,81.058
+"Neoplasms; Carcinoma; Skin",TC.1027,18,0.41,62.7,0.95,8.166
+"Delivery Of Health Care; Patients; Hospitals",TC.160,18,0.08,-25.7,0.8,86.078
+"Fiction; Postcolonial; Introduction",TC.867,17,0.28,-,0.96,5.622
+"Child; Geography; Research",TC.596,17,0.18,-41.3,0.8,49.398
+"Additives; Manufacture; Printing",TC.609,17,0.14,-,5.7,91.767
+"Hydroxyapatite; Calcium Phosphate; Scaffolds",TC.247,17,0.1,270.3,0.68,93.507
+"Foams; Energy Absorption; Crashworthiness",TC.803,17,0.2,-59.3,1.47,72.758
+"Uric Acid; Gout; Hyperuricemia",TC.1000,17,0.31,-17.2,1.57,56.292
+"Refugee; Migration; Migrant",TC.1156,17,0.34,-86.0,1.31,30.79
+"Bacillariophyta; Dinophyceae; Toxins",TC.334,17,0.19,-36.2,1.33,78.447
+"Fish; Brazil; Siluriformes",TC.730,17,0.35,-48.0,1.43,43.641
+"Tourism; Tourists; Destination",TC.239,17,0.09,9.2,1.32,85.743
+"Neisseria Meningitidis; Meningococcal Vaccines; Siderophores",TC.1002,17,0.5,71.1,1.74,44.177
+"Urinary Bladder; Overactive Urinary Bladder; Women",TC.117,17,0.08,-33.2,1.14,80.054
+"Orthodontics; Malocclusion; Temporomandibular Joint",TC.236,17,0.12,24.6,0.45,63.989
+"Composite Materials; Homogenization Method; Elasticity",TC.1074,17,0.41,83.0,2.2,45.114
+"Gallium Nitride; Light Emitting Diodes; High Electron Mobility Transistors",TC.208,17,0.09,69.7,0.56,87.149
+"Nitric Oxide; Arginine; Nitric Oxide Synthase Type III",TC.449,17,0.27,145.3,2.63,70.013
+"Nurses; Nursing; Students",TC.212,16,0.1,-23.8,0.96,68.273
+"Intercropping; Nutrient Management; India",TC.954,16,0.39,354.0,1.55,27.51
+"Environmental Impact Assessment; Environmental Assessment; Strategic Environmental Assessment",TC.1267,16,0.43,-23.6,1.92,36.412
+"Pituitary Neoplasms; Growth Hormone; Acromegaly",TC.217,16,0.15,-73.6,2.1,68.942
+"Nursing Homes; Long-Term Care; Caregivers",TC.482,16,0.19,-47.4,1.56,57.095
+"Exergy; Heat Pump Systems; Rankine Cycle",TC.271,16,0.08,-100.0,1.65,96.051
+"Proteins; Membranes; Endocytosis",TC.498,16,0.22,57.1,1.63,78.246
+"Lakes; Reservoirs; Zooplankton",TC.446,16,0.27,58.7,1.72,55.288
+"Research; Clinical Trials As Topic; Patients",TC.463,16,0.16,-12.0,1.35,62.048
+"Tailings; Mines; Mining",TC.1082,16,0.39,-28.4,0.7,38.086
+"Phosphines; Tribolium Castaneum; Coleoptera",TC.1199,16,0.62,-83.7,1.28,22.423
+"Carbon Capture; Shale; Storage (Materials)",TC.635,16,0.13,-4.7,1.65,80.254
+"Watersheds; Soil Erosion; Catchments",TC.476,16,0.19,-85.1,0.81,74.163
+"Soviet; Holocaust; Russia",TC.469,16,0.15,-87.2,1.54,13.32
+"Botswana; Rock Art; Southern Africa",TC.1190,16,0.59,20.8,1.87,14.926
+"Personality; Borderline Personality Disorder; Personality Disorders",TC.689,16,0.23,548.3,1.95,62.985
+"Soil; Pedogenesis; Chemical Weathering",TC.878,16,0.48,172.7,1.77,39.023
+"Students; Engineering; Education",TC.306,16,0.14,-59.2,3.4,45.315
+"Science; Risks; Nanotechnology",TC.550,16,0.17,194.2,25.02,71.687
+"Suicide; Suicidal Ideation; Wounds And Injuries",TC.531,16,0.17,20.3,1.1,73.829
+"HIV-1; HIV; HIV Infections",TC.188,16,0.11,142.1,0.95,88.755
+"Bariatric Surgery; Gastric Bypass; Obesity",TC.865,15,0.18,353.4,35.57,71.486
+"Pancreatic Neoplasms; Pancreatitis; Patients",TC.51,15,0.05,-38.1,8.9,89.893
+"Hepatocellular Carcinoma; Liver; Neoplasms",TC.182,15,0.08,181.0,2.39,86.011
+"Pain; Child; Pain Management",TC.1052,15,0.37,-39.3,1.41,40.094
+"Combustion; Combustors; Ignition",TC.256,15,0.1,70.9,1.09,87.55
+"Photocatalysis; Photocatalysts; Solar Cells",TC.8,15,0.02,-50.1,1.76,99.933
+"Stormwater; Storm Sewers; Rainwater",TC.876,15,0.23,-19.6,1.27,67.403
+"Food; Consumers; Farmers",TC.437,15,0.13,264.6,1.46,73.628
+"Child; Malnutrition; Food",TC.934,15,0.28,-41.4,0.31,55.489
+"Literacy; Teacher; Student",TC.450,15,0.13,-100.0,1.38,46.185
+"Semantics; Models; Recommender Systems",TC.37,15,0.03,95.7,0.65,96.319
+"Verbs; Language; Semantics",TC.298,15,0.11,-45.8,1.39,28.179
+"Alleles; Nuclear Family; HLA Antigens",TC.1305,15,0.66,-32.9,0.91,17.47
+"Calcium Carbonate; Calcite; Fouling",TC.758,15,0.19,-15.5,0.53,76.573
+"Reynolds Number; Boundary Layers; Large Eddy Simulation",TC.34,15,0.04,22.9,0.92,89.96
+"Well Logging; Reservoirs (Water); Petroleum Reservoirs",TC.1411,15,0.48,225.4,0.9,9.572
+"DNA Repair; DNA Damage; Neoplasms",TC.104,15,0.08,-,2.03,93.574
+"Mathematics; Students; Teacher",TC.391,14,0.11,32.1,1.01,65.529
+"PPAR Gamma; AMP-Activated Protein Kinases; Lipids",TC.434,14,0.16,311.7,1.29,80.723
+"Human Engineering; Ergonomics; Automation",TC.588,14,0.16,17.6,1.18,56.961
+"Planning; Governance; Community",TC.577,14,0.17,186.2,0.46,60.643
+"Learning; Geriatrics; Students",TC.923,14,0.3,-62.2,1.51,33.4
+"Caves; Karst; Speleothem",TC.870,14,0.33,74.6,1.56,43.574
+"Radiation; Tomography; Medical Imaging",TC.245,14,0.08,120.9,0.55,79.116
+"Teachers; Language; Student",TC.265,14,0.07,-,1.11,73.36
+"Breast Neoplasms; Tamoxifen; Estrogen Receptors",TC.439,14,0.2,12.7,3.6,71.553
+"Education; Student; University",TC.666,14,0.19,-66.6,1.46,45.649
+"Family; Woman; Marriage",TC.500,14,0.18,-,0.98,47.992
+"Membranes; Desalination; Ultrafiltration",TC.223,14,0.07,-,1.55,97.925
+"Radon; Radioisotopes; Radioactivity",TC.242,14,0.1,197.6,1.24,72.959
+"Vascular Stiffness; Pulse Wave Analysis; Blood Pressure",TC.874,14,0.19,-75.7,1.01,58.568
+"Blood Platelets; Thrombocytopenia; Platelet Count",TC.630,14,0.24,-60.0,2.37,49.063
+"Wounds And Injuries; Patients; Emergencies",TC.380,14,0.13,-64.8,1.33,51.339
+"Vasculitis; Mucocutaneous Lymph Node Syndrome; Giant Cell Arteritis",TC.539,14,0.18,-7.9,0.89,48.394
+"Psychotherapy; Counseling; Psychology",TC.311,14,0.15,-75.0,1.05,53.949
+"Electrical Resistivity; Ground Penetrating Radar Systems; Geological Surveys",TC.508,14,0.14,-19.1,0.54,49.799
+"Composite Materials; Laminates; Fiber Reinforced Plastics",TC.183,14,0.07,29.6,1.11,86.613
+"International Law; Human Rights; Responsibility",TC.363,14,0.11,171.0,0.32,33.802
+"Scabies; Mites; Pediculus",TC.1398,14,0.72,108.2,1.27,9.705
+"Soils; Agricultural Machinery; Excavators",TC.910,14,0.34,686.6,1.26,30.857
+"Isoptera; Termite; Rhinotermitidae",TC.1457,14,1.05,786.3,1.42,10.509
+"Huntington Disease; Myotonic Dystrophy; Spinocerebellar Ataxias",TC.794,14,0.22,-100.0,0.79,65.73
+"Algorithms; Data Structures; Data Compression",TC.845,14,0.27,-62.5,1.09,21.888
+"Diptera; Myiasis; Larva",TC.1195,14,0.48,-4.0,1.27,40.428
+"Adaptive Filters; Algorithms; Active Noise Control",TC.1072,14,0.33,-,1.4,31.861
+"Spinal Cord Injuries; Wheelchairs; Rehabilitation",TC.841,13,0.21,72.3,25.55,52.677
+"Secondary Batteries; Electric Batteries; Lithium Alloys",TC.30,13,0.02,7.5,1.76,100.0
+"Mitochondrial Genome; Transfer RNA; Genes",TC.650,13,0.16,-30.1,4.15,69.143
+"Violence; Women; Child",TC.310,13,0.09,132.7,1.23,78.782
+"Surveys; Data Collection; Interview",TC.1093,13,0.29,-78.8,0.61,33.467
+"Pensions; Financial Literacy; Retirement",TC.1067,13,0.29,-40.2,1.57,25.301
+"Coffee; Caffeine; Energy Drinks",TC.1192,13,0.33,85.6,3.49,58.635
+"Venoms; Snake Bites; Antivenins",TC.571,13,0.23,-46.8,2.56,56.359
+"Editorial; Periodicals As Topic; Publications",TC.1122,13,0.18,-24.9,0.49,26.707
+"Parasites; Fishes; Myxozoa",TC.343,13,0.21,-100.0,0.46,45.85
+"Synthetic Aperture Radar; Radar; Radar Imaging",TC.204,13,0.06,-,0.81,81.794
+"Japan; Japanese; Korea",TC.949,13,0.26,122.5,1.4,6.024
+"Manifold; Curvature; Metric",TC.158,13,0.06,476.3,3.33,63.788
+"Care; Child; Child Welfare",TC.987,13,0.26,193.0,1.23,38.487
+"Fossils; Cretaceous; Basin",TC.486,13,0.38,-10.1,14.23,35.007
+"Cleft Palate; Cleft Lip; Craniosynostoses",TC.582,13,0.18,43.4,1.07,39.625
+"Chiroptera; Bat; Rodents",TC.296,13,0.17,204.6,0.95,59.036
+"Hausdorff Dimension; Map; Entropy",TC.599,13,0.2,-69.2,0.43,19.545
+"Lung; Surface-Active Agents; Pulmonary Alveolar Proteinosis",TC.1011,13,0.41,-66.1,0.89,41.365
+"Sphingosine; Enzyme Replacement Therapy; Sphingolipids",TC.330,13,0.12,1.6,1.37,81.191
+"Inertial Confinement Fusion; Laser Produced Plasmas; Plasmas (Physics)",TC.312,13,0.11,662.6,1.39,65.06
+"Student; Ethics; Integrity",TC.776,13,0.24,276.0,1.47,38.019
+"Judgment; Decision Making; Probability",TC.780,13,0.2,532.9,0.85,54.886
+"Syndrome; Intellectual Disability; Genes",TC.441,13,0.17,-,4.46,55.823
+"Magnesium; Magnesium Sulfate; Serum",TC.1297,13,0.58,-3.2,0.86,27.845
+"Psychology; Well-Being; Happiness",TC.713,13,0.16,-,0.84,65.663
+"Metabolomics; Metabolome; Mass Spectrometry",TC.858,13,0.17,324.1,1.55,84.538
+"Urinary Bladder Neoplasms; Cystectomy; Carcinoma",TC.417,13,0.14,-23.3,1.02,66.131
+"Advanced Glycosylation End Products; HMGB1 Protein; Pyruvaldehyde",TC.736,12,0.18,-100.0,1.13,71.084
+"Proteomics; Mass Spectrometry; Proteins",TC.227,12,0.07,419.7,1.02,92.503
+"Cracks; Stress Intensity Factors; Crack Propagation",TC.303,12,0.11,11.2,0.85,61.312
+"Sports; Athletes; Football",TC.567,12,0.12,10.8,0.82,52.945
+"Volatile Oils; Antioxidants; Oils",TC.366,12,0.1,57.4,1.18,85.542
+"Broiler Chickens; Laying Hens; Swine",TC.202,12,0.1,58.8,0.7,71.151
+"Microfluidics; Fluidic Devices; Microchannels",TC.197,12,0.06,143.8,0.54,95.917
+"Graph In Graph Theory; Coloring; Graphic Methods",TC.262,12,0.07,-13.1,0.79,59.505
+"Ships; Offshore Structures; Navigation",TC.1163,12,0.27,-100.0,1.08,26.774
+"Polychlorinated Biphenyls; Organic Pollutants; Halogenated Diphenyl Ethers",TC.209,12,0.08,-55.2,0.8,94.311
+"Neoplasms; Sarcoma; Bone And Bones",TC.193,12,0.07,292.1,0.44,68.742
+"Transforming Growth Factor Beta; Fibrosis; Neoplasms",TC.904,12,0.21,-100.0,1.01,65.395
+"Drosophila; Insects; Drosophila Melanogaster",TC.342,12,0.16,-,1.82,72.222
+"Geographic Information Systems; Maps; Models",TC.515,12,0.13,15.2,1.55,55.355
+"Sickle Cell Anemia; Beta-Thalassemia; Hemoglobins",TC.562,12,0.18,-3.2,0.27,59.839
+"G-Protein-Coupled Receptors; Arrestins; Ligands",TC.615,12,0.23,-40.7,3.02,72.423
+"Pollinators; Flowers; Pollination",TC.1035,12,0.37,-9.8,1.69,41.7
+"Pheochromocytoma; Paraganglioma; Hydrocortisone",TC.286,12,0.11,1.2,1.35,69.344
+"Macrophytes; Aquatic Plants; Lakes",TC.1196,12,0.5,359.4,1.03,21.486
+"Glycogen Storage Disease; Galactosemias; Galactose",TC.1367,12,0.76,-100.0,0.83,14.056
+"Cryptosporidium; Giardia Lamblia; Parasites",TC.612,12,0.23,-29.5,1.69,53.481
+"Positrons; Positron Annihilation Spectroscopy; Positronium",TC.1200,12,0.62,-100.0,0.53,16.6
+"Allelopathy; Weeds; Extracts",TC.1374,12,0.57,-22.2,3.63,17.671
+"Isotopes; Isotopic Fractionation; Sulfur Isotope",TC.1357,12,0.52,39.6,1.18,48.929
+"Polyelectrolytes; Colloids; Dynamic Light Scattering",TC.1006,12,0.46,-38.7,0.67,35.074
+"Arctic; Seas; Piracy",TC.938,12,0.27,-43.0,1.3,22.758
+"Autonomous Underwater Vehicles; Underwater Acoustics; Remotely Operated Vehicles",TC.1150,12,0.23,90.6,2.82,37.082
+"Morus; Flavonoids; Antioxidants",TC.1017,11,0.26,-43.4,0.64,45.248
+"Finite Automata; Formal Languages; P Systems",TC.697,11,0.2,-100.0,1.1,25.368
+"DNA; Barcoding; Polymerase Chain Reaction",TC.1157,11,0.24,-20.4,3.87,69.679
+"Bioremediation; Biodegradation; Soils",TC.280,11,0.09,5.9,1.19,86.212
+"Buildings; Design; Urban Planning",TC.857,11,0.14,32.7,1.76,59.772
+"Sustainability; Sustainable Development; Students",TC.879,11,0.16,-100.0,1.0,53.213
+"Rare Earth Elements; Europium; Luminescence",TC.726,11,0.22,160.7,0.99,63.922
+"First World War; Great War; Fascism",TC.715,11,0.16,-100.0,0.24,8.099
+"Hypertrophic Cardiomyopathy; Myosins; Cardiomyopathies",TC.554,11,0.18,-73.1,1.02,60.576
+"India; Indian; Politics",TC.475,11,0.1,-78.8,0.45,34.137
+"Arachis Hypogaea; Peanuts; Nuts",TC.1471,11,0.59,357.8,2.89,27.175
+"Altitude; Anoxia; Altitude Sickness",TC.1246,11,0.38,-43.4,1.9,25.167
+"Tensors; Blind Source Separation; Algorithms",TC.1080,11,0.21,-75.3,0.77,41.499
+"Nausea; Vomiting; Antiemetics",TC.922,11,0.26,6.8,1.99,34.003
+"Wetlands; Desertification; Plateau",TC.674,11,0.18,-38.3,1.34,46.854
+"Basin; Cordillera; Miocene",TC.1158,11,0.55,-69.5,1.24,20.95
+
+"© 2019 Elsevier B.V. All rights reserved. SciVal, RELX Group and the RE symbol are trade marks of RELX Intellectual Properties SA, used under license."
